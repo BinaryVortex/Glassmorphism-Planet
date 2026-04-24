@@ -1,5 +1,7 @@
 # Glassmorphism-Planet
 
+![Preview](Screenshot%202024-06-08%20202729.png)
+
 Glassmorphism Planet built using HTML, CSS and JavaScript.
 
 Live demo
@@ -17,7 +19,7 @@ Features
 Files
 - `index.html` — markup for the planet and ring.
 - `style.css` — all styling and visual effects (glass highlights, shadows, ring).
-- `screenshot.svg` — lightweight SVG preview included in the README.
+- `Screenshot 2024-06-08 202729.png` — screenshot preview included in the README.
 
 How to customize
 - Change colors and shadows in `style.css` to get different moods.
