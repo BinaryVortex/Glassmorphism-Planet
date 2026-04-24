@@ -2,8 +2,6 @@
 
 Glassmorphism Planet built using HTML, CSS and JavaScript.
 
-![Preview](screenshot.svg)
-
 Live demo
 - Open `index.html` in your browser (double-click or drag into a browser tab).
 - Or serve the folder using a local HTTP server, for example:
